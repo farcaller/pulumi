@@ -2,7 +2,9 @@ CHANGELOG
 =========
 
 ## HEAD (Unreleased)
-_(none)_
+
+- [cli] Added commands `config set-all` and `config rm-all` to set and  remove multiple configuration keys. 
+  [#6373](https://github.com/pulumi/pulumi/pulls/6373)
 
 ## 2.21.0 (2021-02-17)
 
